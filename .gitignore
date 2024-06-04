@@ -1,0 +1,1 @@
+-e "*.db\n*.log\ntarget/\nbin/" 
